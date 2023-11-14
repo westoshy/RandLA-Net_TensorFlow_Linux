@@ -1,0 +1,8 @@
+****EPOCH 0****
+****EPOCH 0****
+****EPOCH 0****
+Step 00000050 L_out=15.649 Acc=0.29 --- 4484.09 ms/batch
+Step 00000100 L_out=12.085 Acc=0.29 --- 4409.51 ms/batch
+Step 00000150 L_out=15.757 Acc=0.42 --- 4426.05 ms/batch
+Step 00000200 L_out=27.399 Acc=0.33 --- 4466.48 ms/batch
+Step 00000250 L_out=10.693 Acc=0.47 --- 4260.79 ms/batch
